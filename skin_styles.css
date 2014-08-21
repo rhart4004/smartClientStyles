@@ -3236,6 +3236,7 @@ select[disabled] option {
 .imgHeaderButton,
 .sorterButton {
   background-size: 100% 100%;
+  This is not a line of css :)
   background-repeat: repeat-x;
 }
 
