@@ -278,6 +278,7 @@ ul {
 
 .buttonDisabled {
   color: #fff;
+  font-weight: bold;
 }
 .buttonSelectedDisabled {
     color: #ababab;
