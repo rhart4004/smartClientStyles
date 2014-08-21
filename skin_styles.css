@@ -3238,6 +3238,7 @@ select[disabled] option {
 .sorterButton {
   background-size: 100% 100%;
   This is not a line of css :)
+  This is a second none code line
   background-repeat: repeat-x;
 }
 
