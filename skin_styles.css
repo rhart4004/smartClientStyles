@@ -450,6 +450,7 @@ ul {
   background-color: #fafafa;
   background-repeat: repeat-y;
   background-attachment: scroll;
+  border: 1px solid #ccc;
 }
 
 .gridBodyAnimated,
@@ -3097,6 +3098,7 @@ select[disabled] option {
 .sorterButtonDown,
 .sorterButtonSelectedOver,
 .sorterButtonSelectedDown {
+  background: #ccc;
   color: black;
   font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
   font-size: 11px;
@@ -3170,7 +3172,7 @@ select[disabled] option {
 .headerButtonSelectedDown,
 .sorterButtonSelectedOver,
 .sorterButtonSelectedDown {
-  background-color: aliceblue;
+  background-color: #ddd;
   color: black;
   font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
   font-size: 11px;
