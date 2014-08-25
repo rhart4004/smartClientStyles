@@ -5493,8 +5493,8 @@ IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
 .calendarWorkdayDisabled,
 .calendarDark {
   background-color: white;
-  border-bottom: 1px solid #ababab;
-  border-right: 1px solid #ababab;
+  border-bottom: 1px solid #eaeaea;
+  border-right: 1px solid #eaeaea;
   color: black;
   font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
   font-size: 11px;
@@ -5515,8 +5515,8 @@ IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
 .calendarOver,
 .calendarOverDark {
   background-color: #c4ddfd;
-  border-bottom: 1px solid #ababab;
-  border-right: 1px solid #ababab;
+  border-bottom: 1px solid #eaeaea;
+  border-right: 1px solid #eaeaea;
   color: black;
   font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
   font-size: 11px;
@@ -5525,8 +5525,8 @@ IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
 .calendarWorkdaySelected,
 .calendarCellSelected {
   background-color: #cccccc;
-  border-bottom: 1px solid #ababab;
-  border-right: 1px solid #ababab;
+  border-bottom: 1px solid #eaeaea;
+  border-right: 1px solid #eaeaea;
   color: black;
   font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
   font-size: 11px;
@@ -5536,8 +5536,8 @@ IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
 .labelColumnOver,
 .labelColumnOverDark {
   background-color: #fafafa;
-  border-bottom: 1px solid #ababab;
-  border-right: 1px solid #ababab;
+  border-bottom: 1px solid #eaeaea;
+  border-right: 1px solid #eaeaea;
   color: black;
   font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
   font-size: 11px;
@@ -5555,8 +5555,8 @@ IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
 .calMonthDayHeader,
 .calMonthDayHeaderDark {
   background-color: #fafafa;
-  border-bottom: 1px solid #ababab;
-  border-right: 1px solid #ababab;
+  border-bottom: 1px solid #eaeaea;
+  border-right: 1px solid #eaeaea;
   color: black;
   font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
   font-size: 11px;
@@ -5567,8 +5567,8 @@ IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
 .calMonthDayHeaderOver,
 .calMonthDayHeaderOverDark {
   background-color: #ecc0c5;
-  border-bottom: 1px solid #ababab;
-  border-right: 1px solid #ababab;
+  border-bottom: 1px solid #eaeaea;
+  border-right: 1px solid #eaeaea;
   color: black;
   font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
   font-size: 11px;
@@ -5577,8 +5577,8 @@ IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
 .calMonthDayBody,
 .calMonthDayBodyDark {
   background-color: white;
-  border-bottom: 1px solid #ababab;
-  border-right: 1px solid #ababab;
+  border-bottom: 1px solid #eaeaea;
+  border-right: 1px solid #eaeaea;
   color: black;
   font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
   font-size: 11px;
@@ -5591,8 +5591,8 @@ IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
 .calMonthDayBodySelectedOver,
 .calMonthDayBodySelectedOverDark {
   background-color: #ecc0c5;
-  border-bottom: 1px solid #ababab;
-  border-right: 1px solid #ababab;
+  border-bottom: 1px solid #eaeaea;
+  border-right: 1px solid #eaeaea;
   color: black;
   font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
   font-size: 11px;
@@ -5601,8 +5601,8 @@ IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
 .calMonthDayBodyDisabled,
 .calMonthDayBodyDisabledOver {
   background-color: #fafafa;
-  border-bottom: 1px solid #ababab;
-  border-right: 1px solid #ababab;
+  border-bottom: 1px solid #eaeaea;
+  border-right: 1px solid #eaeaea;
   color: black;
   font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
   font-size: 11px;
@@ -5612,8 +5612,8 @@ IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
 .calMonthOtherDayHeader,
 .calMonthOtherDayHeaderDark {
   background-color: #ababab;
-  border-bottom: 1px solid #ababab;
-  border-right: 1px solid #ababab;
+  border-bottom: 1px solid #eaeaea;
+  border-right: 1px solid #eaeaea;
   color: #454545;
   font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
   font-size: 11px;
@@ -5624,8 +5624,8 @@ IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
 .calMonthOtherDayHeaderOver,
 .calMonthOtherDayHeaderOverDark {
   background-color: #ecc0c5;
-  border-bottom: 1px solid #ababab;
-  border-right: 1px solid #ababab;
+  border-bottom: 1px solid #eaeaea;
+  border-right: 1px solid #eaeaea;
   color: #454545;
   font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
   font-size: 11px;
@@ -5636,8 +5636,8 @@ IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
 .calMonthOtherDayBodyDisabled,
 .calMonthOtherDayBodyDisabledOver {
   background-color: #fafafa;
-  border-bottom: 1px solid #ababab;
-  border-right: 1px solid #ababab;
+  border-bottom: 1px solid #eaeaea;
+  border-right: 1px solid #eaeaea;
   color: black;
   font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
   font-size: 11px;
@@ -5646,8 +5646,8 @@ IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
 .calMonthOtherDayBodyOver,
 .calMonthOtherDayBodyOverDark {
   background-color: #ecc0c5;
-  border-bottom: 1px solid #ababab;
-  border-right: 1px solid #ababab;
+  border-bottom: 1px solid #eaeaea;
+  border-right: 1px solid #eaeaea;
   color: black;
   font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
   font-size: 11px;
@@ -5663,8 +5663,8 @@ IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
 .calMonthOtherDayBlankSelectedOver,
 .calMonthOtherDayBlankSelectedOverDark {
   background-color: #fafafa;
-  border-bottom: 1px solid #ababab;
-  border-right: 1px solid #ababab;
+  border-bottom: 1px solid #eaeaea;
+  border-right: 1px solid #eaeaea;
   color: #454545;
   font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
   font-size: 11px;
