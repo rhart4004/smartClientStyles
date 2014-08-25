@@ -156,7 +156,7 @@ ul {
 
 /* drag outline */
 .dragOutline {
-  border: 1px dashed #f90f0b;
+  border: 1px dashed #777;
 }
 
 /* drop indicator */
@@ -612,7 +612,7 @@ ul {
 		dialog.headerLabelDefaults.styleName - dialogHeaderText
 ============================================================*/
 .windowBackground {
-  background: #2EC1CC;
+  background: #fff;
   background-size: 100%;
   -moz-border-radius-bottomleft: 0px;
   -webkit-border-bottom-left-radius: 0px;
@@ -626,13 +626,10 @@ ul {
   -moz-border-radius-topright: 5px;
   -webkit-border-top-right-radius: 5px;
   border-top-right-radius: 5px;
-  -webkit-box-shadow: inset #fcfcfc 0 1px 0, inset #ededed 0 -1px 0, inset #ededed 1px 0 0, inset #ededed -1px 0 0;
-  -moz-box-shadow: inset #fcfcfc 0 1px 0, inset #ededed 0 -1px 0, inset #ededed 1px 0 0, inset #ededed -1px 0 0;
-  box-shadow: inset #fcfcfc 0 1px 0, inset #ededed 0 -1px 0, inset #ededed 1px 0 0, inset #ededed -1px 0 0;
+  border: solid 1px #333;
 }
 
 .windowBackgroundFill {
-  background: #f7f7f7;
   background-size: 100%;
   border: 1px solid #b5b5b5;
 }
@@ -649,7 +646,7 @@ ul {
 
 .windowHeaderText,
 .dialogHeaderText {
-  color: #fff;
+  color: #333;
   font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
   font-size: 11px;
   font-weight: bold;
