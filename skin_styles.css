@@ -3101,7 +3101,7 @@ select[disabled] option {
   font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
   font-size: 11px;
   border-bottom: 1px solid #97b4d3;
-  border-left: 1px solid #fafafa;
+  border-left: 1px solid #FAFAFA;
   border-right: 1px solid #cccccc;
 }
 
@@ -3301,7 +3301,7 @@ select[disabled] option {
 .cellDark,
 .recordSummaryCell,
 .recordSummaryCellDark {
-  background-color: #f3f3f3;
+  background-color: #f9f9f9;
 }
 
 .gridSummaryCell,
@@ -3321,14 +3321,13 @@ select[disabled] option {
 .specialColOver,
 .recordSummaryCellOver,
 .recordSummaryCellOverDark {
-  background-color: #d3d3d3;
+  background-color: #FAFAFA;
   background-size: 100%;
 }
 
 .tallCellOver,
 .tallCellOverDark {
-  background-color: #dbedff;
-  border-top: 1px solid #e8e8e8;
+  background-color: #ccc;
 }
 
 .cellSelected,
@@ -3336,16 +3335,12 @@ select[disabled] option {
 .specialColSelected,
 .recordSummaryCellSelected,
 .recordSummaryCellSelectedDark {
-  background: #d6e8ff;
-  border-bottom: 1px dotted #9fb7e9;
-  border-top: 1px dotted #9fb7e9;
+  background: #E8E8E8;
 }
 
 .tallCellSelected,
 .tallCellSelectedDark {
-  background: #d6e8ff;
-  border-bottom: 1px dotted #9fb7e9;
-  border-top: 1px dotted #9fb7e9;
+  background: #E8E8E8;
 }
 
 .cellSelectedOver,
@@ -3353,27 +3348,13 @@ select[disabled] option {
 .specialColSelectedOver,
 .recordSummaryCellSelectedOver,
 .recordSummaryCellSelectedOverDark {
-  border-bottom: 1px solid #ababab;
-  border-top: 1px solid #b8cfef;
-  background-color: #c4ddfd;
-  background-image: url(./images/ListGrid/row_Selected_Over.png);
-  background-repeat: repeat-x;
-  background-attachment: scroll;
-  background-position: bottom left;
-  background-image: url('data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4gPHN2ZyB2ZXJzaW9uPSIxLjEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PGRlZnM+PGxpbmVhckdyYWRpZW50IGlkPSJncmFkIiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSIgeDE9IjUwJSIgeTE9IjAlIiB4Mj0iNTAlIiB5Mj0iMTAwJSI+PHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iI2M0ZGRmZCIvPjxzdG9wIG9mZnNldD0iOSUiIHN0b3AtY29sb3I9IiNmMGY4ZmYiLz48c3RvcCBvZmZzZXQ9IjE0JSIgc3RvcC1jb2xvcj0iI2U1ZjNmZiIvPjxzdG9wIG9mZnNldD0iODYlIiBzdG9wLWNvbG9yPSIjY2NlNWZmIi8+PHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLWNvbG9yPSIjYzRkZGZkIi8+PC9saW5lYXJHcmFkaWVudD48L2RlZnM+PHJlY3QgeD0iMCIgeT0iMCIgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgZmlsbD0idXJsKCNncmFkKSIgLz48L3N2Zz4g');
+  background-color: #E8E8E8;
   background-size: 100%;
-  background-image: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #c4ddfd), color-stop(9%, #f0f8ff), color-stop(14%, #e5f3ff), color-stop(86%, #cce5ff), color-stop(100%, #c4ddfd));
-  background-image: -webkit-linear-gradient(top, #c4ddfd 0%, #f0f8ff 9%, #e5f3ff 14%, #cce5ff 86%, #c4ddfd 100%);
-  background-image: -moz-linear-gradient(top, #c4ddfd 0%, #f0f8ff 9%, #e5f3ff 14%, #cce5ff 86%, #c4ddfd 100%);
-  background-image: -o-linear-gradient(top, #c4ddfd 0%, #f0f8ff 9%, #e5f3ff 14%, #cce5ff 86%, #c4ddfd 100%);
-  background-image: linear-gradient(top, #c4ddfd 0%, #f0f8ff 9%, #e5f3ff 14%, #cce5ff 86%, #c4ddfd 100%);
 }
 
 .tallCellSelectedOver,
 .tallCellSelectedOverDark {
-  background-color: #d0dff6;
-  border-bottom: 1px dotted #9fb7e9;
-  border-top: 1px dotted #9fb7e9;
+  background-color: #E8E8E8;
 }
 
 .gridSummaryCell,
