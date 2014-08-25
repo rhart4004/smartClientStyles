@@ -3477,12 +3477,10 @@ select[disabled] option {
 .toolStrip {
   background-color: #fff;
   background-size: 100%;
-  border: 1px solid #2EC1CC;
 }
 
 .toolStripVertical {
   background-color: white;
-  border: 1px solid #2EC1CC;
 }
 
 /* tool strip button */
@@ -3570,7 +3568,7 @@ select[disabled] option {
 .toolStripGroupDisabled {
   background: #fff;
   background-size: 100%;
-  border: 1px solid #2EC1CC;
+  /*border: 1px solid #2EC1CC;*/
   -webkit-border-radius: 3px;
   -moz-border-radius: 3px;
   -ms-border-radius: 3px;
